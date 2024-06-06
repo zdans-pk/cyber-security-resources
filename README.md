@@ -10,4 +10,4 @@
 - [Snyk Learn](https://learn.snyk.io/catalog/?format=lesson&type=security-education)
 ## YouTube Channels
 - [David Bombal](https://www.youtube.com/@davidbombal)
-- 
+- [](https://www.youtube.com/@_JohnHammond)
