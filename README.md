@@ -12,3 +12,7 @@
 - [David Bombal](https://www.youtube.com/@davidbombal)
 - [John Hammond](https://www.youtube.com/@_JohnHammond)
 - [ippsec](https://www.youtube.com/c/ippsec)
+## Podcasts
+- [Daniel Miessler - Unsupervised Learning](https://danielmiessler.com/p/plan-career-around-problems)
+- [No Name Podcast](https://nonamepodcast.org)
+- [Darknet Diaries](https://darknetdiaries.com)
