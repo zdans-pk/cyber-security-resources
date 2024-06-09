@@ -16,3 +16,5 @@
 - [Daniel Miessler - Unsupervised Learning](https://danielmiessler.com/p/plan-career-around-problems)
 - [No Name Podcast](https://nonamepodcast.org)
 - [Darknet Diaries](https://darknetdiaries.com)
+## News
+- [Bruce Schneier’s Schneier on Security](https://www.schneier.com)
